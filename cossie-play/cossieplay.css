@@ -1,0 +1,55 @@
+.home-header{
+    margin-top: 50px;
+    padding-top: 150px;
+    width: 100%;
+    height: 800px;
+    text-align: center;
+    background: url("images/sewing-hands-1418016.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: aliceblue;
+}
+.intro-message{
+    width: 500px;
+    margin-left: 650px;
+}
+.social-buttons{
+    margin-left: 650px;
+}
+.btn:hover {
+    transform:scale(1.1);
+    transition: 0.2s;
+    letter-spacing: 2px;
+    background-color: black !important;
+    color: white !important;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+.about-header{
+    height: 1000px;
+    background: url("images/spiderman-in-nature-2-1258899-640x480.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: aliceblue;
+}
+.about-content{
+    margin-top: 150px;
+    margin-left: -200px;
+    font-size: medium;
+}
+
+.profile-header{
+    height: 800px;
+    background: url("images/racetrack.jpg") no-repeat center  fixed ;
+    background-size: cover;
+}
+.profile-content {
+    padding-top: 80px;
+    color: #461c20;
+    font-family: "Segoe UI Black";
+}
+#cars-row-first{
+    padding-top: 40px;
+    margin-left: 85px;
+}
+#cars-row-second{
+    padding-top: 30px;
+    margin-left: 85px;
+}
